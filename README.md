@@ -13,6 +13,14 @@
 
 Siéntete libre de explorar las soluciones y déjame saber tus pensamientos. Cualquier comentario o sugerencia es más que bienvenido. ¡Aprendemos juntos!
 
+## 🌈 Niveles de Complejidad
+
+Este repositorio tiene ejercicios de tres niveles de complejidad:
+
+- **Junior:** Rama para problemas más básicos y adecuados para principiantes.
+- **Mid-Senior:** Rama para problemas de nivel intermedio.
+- **Senior:** Rama para problemas desafiantes destinados a desarrolladores senior. ("Aun no abran 🤣")
+
 ## 📝 Licencia
 
 Este proyecto se distribuye bajo la licencia [MIT](LICENSE). Consulta el archivo LICENSE para obtener más detalles sobre cómo puedes utilizar y compartir este material.
